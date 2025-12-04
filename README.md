@@ -32,15 +32,3 @@
 ## 关于开发版本编译
 如有需要开发版本请自行[编译](HOW_TO_BUILD.md)
 
-## 截图
-<img src="pic/screenshot/main.webp" width="300px">
-<img src="pic/screenshot/small.webp" width="300px">
-<img src="pic/screenshot/small_landscape.webp" width="300px">
-<img src="pic/screenshot/full.webp" width="300px">
-
-## 捐赠鼓励
-
-如果您觉得我的软件对您有帮助，可以赞助我，十分感谢！
-
-<img src="pic/other/wechat.webp" width="200px">
-<img src="pic/other/alipay.webp" width="200px">
