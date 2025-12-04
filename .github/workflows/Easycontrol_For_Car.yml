@@ -1,4 +1,4 @@
-name: Easycontrol_For_Car
+name: Easycontrol APK
 
 on:
   workflow_dispatch:
@@ -29,5 +29,5 @@ jobs:
     - name: Upload APK
       uses: actions/upload-artifact@v2
       with:
-        name: my-build-apk
+        name: easycontrol
         path: ./easycontrol/app/build/outputs/apk/debug/*.apk
